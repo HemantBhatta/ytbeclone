@@ -1,0 +1,61 @@
+.container-fluid
+{
+  min-height: 100vh;
+}
+
+.statsSection
+{
+  
+  color: grey;
+  padding: 10px;
+}
+
+.searchInput
+{
+  width: 500px;
+ 
+  padding: 5px 5px 8px;
+  border: none;
+  background-color: rgb(243, 237, 237)smoke;
+  color: black;
+  box-shadow: 0 0 3px 1px rgba(0,0,0,.3);
+}
+
+.chanelName
+{
+  font-size: .8rem;
+  color: rgba(0,0,0,.5);
+}
+
+
+.w-Emptyspace
+{
+  width: 250px!important;
+}
+
+.logo
+{
+  width: 5rem;
+  height: 3rem;
+  background-color: rgb(196, 184, 184);
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.3);
+  border: 1px solid rgba(0,0,0,.1);
+  margin-left: 100px;
+}
+
+
+.myLogo
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+    width: 4rem;
+    height: 2rem;
+    background-color: salmon;
+    border-radius: 10px;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 0 3px 1px rgba(0,0,0,.3);
+}
+
